@@ -1,10 +1,5 @@
 // Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
-.Information
-* xref:doc-info.adoc[Document information]
-* xref:contributing.adoc[Authorship criteria and how to contribute to this document]
-
-.Contents
 * xref:overview.adoc[Overview]
 * xref:prerequisites.adoc[Prerequisites]
 * Guides
@@ -13,7 +8,5 @@
 * Appendixes
 ** xref:document-template.adoc[Document template in detail]
 ** xref:git-workflow-rationale.adoc[Rationale for Decidim's Git workflow]
-
-.Other formats
-* xref:single-page.adoc[Single page (HTML)]
-* [.pdf-download-button]#PDF#
+* xref:doc-info.adoc[_Document information_]
+* xref:contributing.adoc[_Authorship criteria and how to contribute to this document_]
